@@ -1,0 +1,24 @@
+viewAdmin
+Menu
+
+UpdateMenu
+
+../CSS/
+
+
+
+Menu
+
+PetRegisterMenu
+
+UpdateMenu
+
+DeleteMenu
+
+../Auth/Logout
+
+AddPet
+
+    echo "No session exists or session has expired. Please log in again ";
+	echo "Page will be redirect in 5 seconds";
+	header('Refresh: 5; ../Admin/Login.php');

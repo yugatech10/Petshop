@@ -1,0 +1,80 @@
+body{
+	background-image: url("pets.jpg");
+}
+	
+	
+.header {
+  width: 30%;
+  margin: 50px auto 0px;
+  color: white;
+  background:#483235;
+  text-align: center;
+  border: 1px solid #483235;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 10px;
+}
+form, .content {
+  width: 30%;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #483235;
+  background: white;
+  border-radius: 0px 0px 10px 10px;
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+}
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-group input {
+  height: 30px;
+  width: 93%;
+  padding: 8px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #483235;
+  border: none;
+  border-radius: 5px;
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+h1 { font-family: Arial;
+    font-style: Normal;
+	font-weight: bold;
+
+  }
+.form1 {
+      position: absolute;
+	  background-color: #ffffff;
+	  text-align:center;
+	  width: 320px;
+	  height: 235px;
+	  left: 39%;
+	  bottom: 22%;
+	  opacity: 0.8;
+	  }
+
