@@ -70,12 +70,12 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`username`, `email`, `password`, `type_user`) VALUES
-('Yuga10', 'yugathesyuga@gmail.com', 'abcd1234', 'Admin'),
-('dc96059', 'puvendradasan1699@gmail.com', 'yuga', 'Owner'),
+('Yuga10', 'yugathes@gmail.com', 'abcd1234', 'Admin'),
+('dc96059', 'puvendran1699@gmail.com', 'yuga', 'Owner'),
 ('puvendra_dasan', 'abcdW@gmail.com', 'puven', 'Owner'),
-('Pave', 'pavitheran@gmail.com', 'pave', 'Admin'),
-('yuven', 'mac.yuven@gmail.com', 'yuven', 'Owner'),
-('kushala12', 'kushala12@gmail.com', '1111', 'Admin');
+('Pave', 'pavitn@gmail.com', 'pave', 'Admin'),
+('yuven', 'macven@gmail.com', 'yuven', 'Owner'),
+('kushala12', 'kala12@gmail.com', '1111', 'Admin');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
